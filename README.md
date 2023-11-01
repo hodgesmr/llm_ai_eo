@@ -1,4 +1,4 @@
-# Using Language Models to Explore the AI Executive Order
+# Language Models on the AI Executive Order
 
 ![LLM AI EO](llm_ai_eo_header.jpg)
 

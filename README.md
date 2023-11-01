@@ -4,7 +4,7 @@
 
 On October 30th, 2023, President Biden signed the [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/). The order itself is quite sweeping and touches many government departments and agencies, with a focus on harnessing AI's potential and defending against harms and risks.
 
-In this Notebook, we'll deploy language models to rapidly discover information from the Order. For the easiest setup, I recommend trying this out in a Google Colab notebook. Click the button below to get started!
+In this Notebook, we'll deploy language models to rapidly discover information from the Order. For the easiest setup, I recommend trying this out in a Google Colab notebook.
 
 <a target="_blank" href="https://colab.research.google.com/github/hodgesmr/llm_ai_eo/blob/main/llm_ai_eo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>

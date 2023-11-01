@@ -6,8 +6,10 @@ On October 30th, 2023, President Biden signed the [Executive Order on the Safe, 
 
 In this Notebook, we'll deploy language models to rapidly discover information from the Order. For the easiest setup, I recommend trying this out in a Google Colab notebook.
 
-<a target="_blank" href="https://colab.research.google.com/github/hodgesmr/llm_ai_eo/blob/main/llm_ai_eo.ipynb">
+<a target="_blank" href="TKTK">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> <a target="_blank" href="TKTK">
+  <img src="https://img.shields.io/badge/-Open_in_Github-blue?logo=github&labelColor=gray" alt="Open In Github"/>
 </a>
 
 Many of the strategies presented here are extensions from Simon Willison's work in his blog post, [Embedding paragraphs from my blog with E5-large-v2](https://til.simonwillison.net/llms/embed-paragraphs). Simon also maintains a handly command line utility for working with various LLM models, aptly named [LLM](https://llm.datasette.io/en/stable/). While Simon's writing largely focuses on the CLI capabilities of the tool (and the usefully opinionated integrations with SQLite), I prefer working with Pandas Dataframes. Here I show how to use the LLM library in that fashion.
